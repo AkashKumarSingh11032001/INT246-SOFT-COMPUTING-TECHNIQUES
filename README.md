@@ -1,0 +1,2 @@
+# INT246 SOFT COMPUTING TECHNIQUES
+ SoftComputing Code
